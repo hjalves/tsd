@@ -1,0 +1,5 @@
+pyfiglet==0.8.post1
+hbmqtt==0.9.6
+urwid==2.1.0
+emoji==0.5.4
+toml==0.10.0
